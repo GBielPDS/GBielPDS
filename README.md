@@ -18,6 +18,14 @@ Me chamo Gabriel Pereira, tenho 22 anos e sou natural da Bahia. Concluí o ensin
 />
 <img 
     align="left" 
+    alt="Kotlin" 
+    title="Kotlin"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -108,14 +116,16 @@ Me chamo Gabriel Pereira, tenho 22 anos e sou natural da Bahia. Concluí o ensin
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      min-height="200px"
+      max-height="200px"
       src="https://github-readme-stats.vercel.app/api?username=Gbielpds&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      min-height="200px"
+      max-height="200px" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbielpds&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
 
