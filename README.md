@@ -86,7 +86,15 @@ Me chamo Gabriel Pereira, tenho 22 anos e sou natural da Bahia. Concluí o ensin
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" 
+    src="https://devicons.io/devicons/icons/c.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicons.io/devicons/icons/php-alt.svg"
 />
 <img 
     align="left" 
@@ -98,8 +106,8 @@ Me chamo Gabriel Pereira, tenho 22 anos e sou natural da Bahia. Concluí o ensin
 />
 <img 
     align="left" 
-    alt="C" 
-    title="C"
+    alt="Arduino" 
+    title="Arduino"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"
