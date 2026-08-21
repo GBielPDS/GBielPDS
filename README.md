@@ -121,13 +121,7 @@ Me chamo Gabriel Pereira, tenho 22 anos e sou natural da Bahia. Concluí o ensin
 
 <p>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      min-height="200px"
-      max-height="200px"
-      src="https://github-readme-stats.vercel.app/api?username=Gbielpds&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+[![Tecnologias](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Gbielpds&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 <img 
       align="left" 
